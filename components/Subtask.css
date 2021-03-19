@@ -1,0 +1,13 @@
+.SubTask {
+    margin: 2px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.SubTask p{
+    display: inline-block;
+}
+
+.SubTask button {
+    margin: 5px;
+}

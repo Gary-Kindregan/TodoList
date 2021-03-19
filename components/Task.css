@@ -1,0 +1,23 @@
+.TaskCard {
+    margin: 20px;
+    border: solid 1px black;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.TaskHeader {
+    margin: 5px;
+}
+.TaskHeader label {
+    display: block;
+    padding: 5px;
+    text-align: left;
+}
+
+.TaskHeader input {
+    padding: 5px;
+    margin: 5px;
+}
+.TaskHeader button {
+    margin: 5px;
+}
